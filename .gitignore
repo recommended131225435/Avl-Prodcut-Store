@@ -1,0 +1,15 @@
+# C++ Build Files
+*.o
+*.out
+*.exe
+build/
+bin/
+
+# LaTeX Auxiliary Files
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
